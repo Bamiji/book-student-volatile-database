@@ -1,5 +1,7 @@
 /************************************************************
     Author: Banji Afolabi
+    ID: 71312003
+    Department: Computer Science (200 Level)
     Language Used: C
     Compiler: guc
     IDE: Code::blocks
